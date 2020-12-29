@@ -1,1 +1,1 @@
-# openvpn-reporisotory1
+# openvpn-resources
